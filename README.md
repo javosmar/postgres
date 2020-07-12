@@ -1,5 +1,5 @@
 Autor: Ing. Martin Acosta - 2020
-# POSTGRESQL + PGADMIN4
+# POSTGRESQL + PGADMIN4 🐘
 ## Descripción 📋
 El script se encarga de descargar y ejecutar contenedores de las imagenes oficiales de [PostgreSQL](https://www.postgresql.org/), y [pgAdmin4](https://www.pgadmin.org/) para el manejo de bases de datos relacionales a través de un navegador web.
 Además posee persistencia de los datos y las configuraciones realizadas en el gestor de la base de datos.
